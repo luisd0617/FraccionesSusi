@@ -175,15 +175,15 @@
                         <% 
                            if (higherFracc == 1) {
                         %>                              
-                            <%= "Fracción 1" %>
+                            <%= "F1" %>
                         <% 
                            } else if (higherFracc == 2) {
                         %>
-                            <%= "Fracción 2" %>
+                            <%= "F2" %>
                         <% 
                            } else {
                         %>
-                            <%= "Las fracciones son iguales" %>
+                            <%= "Son iguales" %>
                         <%}%>
                     </section>
     </body>
